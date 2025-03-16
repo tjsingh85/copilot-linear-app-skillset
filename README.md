@@ -1,6 +1,6 @@
 ## Copilot-Lienar-App-SkillSet
 
-This is copilot extension skillset example that connects with Linear App via API. You can read the step by step blog on this on Medium here :
+This is copilot extension skillset example that connects with Linear App via API. You can read the step by step blog on this on Medium here : https://medium.com/@tajinder.singh1985/github-copilot-extensions-query-your-sprint-backlog-from-linear-within-your-ide-c703259db0c1
 
 ## Linear API Integration
 
