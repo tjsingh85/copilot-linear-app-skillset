@@ -1,4 +1,8 @@
-# Linear API Integration
+## Copilot-Lienar-App-SkillSet
+
+This is copilot extension skillset example that connects with Linear App via API. You can read the step by step blog on this on Medium here :
+
+## Linear API Integration
 
 A Node.js application that integrates with Linear's API to fetch and filter issues by assignee.
 
